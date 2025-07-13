@@ -15,10 +15,10 @@ MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Krishna:pss968048@cluster0.4rfuzr
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 ALIVE_PIC = getenv("ALIVE_PIC", 'https://envs.sh/oKU.jpg')
 ALIVE_TEXT = getenv("ALIVE_TEXT")
-PM_LOGGER = getenv("PM_LOGGER")
+PM_LOGGER = getenv("PM_LOGGER","-1001992970818")
 LOG_GROUP = getenv("LOG_GROUP","-1001992970818")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/Rishuz/Slove")
+REPO_URL = getenv("REPO_URL", "https://github.com/the-matrix9")
 BRANCH = getenv("BRANCH", "main") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
